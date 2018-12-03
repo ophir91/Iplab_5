@@ -9,7 +9,7 @@ Then make sure you are using GPU as describe above.
 
 Now you will need to upload your image and the pretrained neural network (net.pth) from the lab folder:
 
-![upload file image]('https://github.com/ophir91/Iplab_5/blob/master/upload%20file%20to%20colab.png')
+![upload file image]('https://github.com/ophir91/Iplab_5/blob/master/upload%20file%20to%20colab.png?raw=true')
 
 ### __And now you are ready to start the lab__
 

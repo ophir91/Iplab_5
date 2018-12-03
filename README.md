@@ -6,7 +6,7 @@ jupyter notebook for iplab at Tel-Aviv University
 
 and save the file in __your__ Drive (__File --> 'save a copy in Drive'__).
 
-Then make sure you are using GPU as describe above.
+Make sure you are using GPU.
 
 Now you will need to upload your image and the pretrained neural network (net.pth) from the lab folder:
 
